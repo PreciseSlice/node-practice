@@ -43,7 +43,3 @@ server.on('request', (request, response) => {
   }
 
 });
-
-// response.writeHead(200, { 'Content-type': 'text/plain' });
-// response.write('Hello World\n');
-// response.end();
